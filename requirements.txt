@@ -1,0 +1,4 @@
+Flask
+Flask-SocketIO
+transformers==4.3.3
+openai==0.3.0
